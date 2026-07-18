@@ -29,6 +29,6 @@
 
 ### 🔗 Connect With Me
 
-- 🌐 **Portfolio Website:** [shayanfolio.online](https://shayanfolio.online)
+- 🌐 **Portfolio Website:** [shayanfolio.online](https://shayanfolio.tech)
 - 💼 **Professional Network:** [LinkedIn Profile](https://linkedin.com/in/proto-mos)
 - 🎮 **Playable Builds:** [Itch.io Space](https://retrododgerumble.itch.io)
