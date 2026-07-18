@@ -1,11 +1,9 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6A00FF,100:00D4FF&amp;height=200&amp;section=header&amp;text=Shayan&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Technical%20Artist%20%26%20Game%20Developer&amp;descAlignY=55&amp;descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6A00FF,100:00D4FF&amp;height=200&amp;section=header&amp;text=Shayan&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Technical%20Artist%20and%20Game%20Developer&amp;descAlignY=55&amp;descSize=20" width="100%"/>
 
 <a href="https://shayanfolio.tech">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Bridging+Art+%26+Code;Blender+%E2%86%92+Unity+%E2%86%92+Shipped+Game;Building+RetroAvalon+Studios;Currently+chasing+Steam+Early+Access" alt="Typing SVG" />
 </a>
-
 </div>
 
 ---
@@ -33,15 +31,26 @@ A 2.5D competitive dodgeball fighter built as an award winning production.
 |---|---|
 | 🕹️ **Scope** | 5 characters · 5 arenas · 6 modes · 14 skin economy shop |
 | 🌐 **Backend** | Server authoritative multiplayer using **PUN2** with a **PlayFab** ecosystem (CloudScript, catalogs, currency, stats) |
-| 🏆 **Accolades** | 🏆 3rd Place Winner, Indus AI Game Jam |
+| 🎓 **FYP** | Final Year Project, selected for showcase at the FCAI Expo |
 | 🎯 **Status** | Optimizing for **Steam Early Access** · pitching incubators |
 
 <div align="center">
 
-[![Play on Itch.io](https://img.shields.io/badge/Play_Now-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://mo-shayan.itch.io/retro-dodge-rumble)
-[![Game Site](https://img.shields.io/badge/Game_Site-retrododgerumble.online-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://retrododgerumble.online/)
+[![Play on Itch.io](https://img.shields.io/badge/Play_Now-Itch.io-FA5C5C?style=for-the-badge&amp;logo=itch.io&amp;logoColor=white)](https://mo-shayan.itch.io/retro-dodge-rumble)
+[![Game Site](https://img.shields.io/badge/Game_Site-retrododgerumble.online-00D4FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)](https://retrododgerumble.online/)
 
 </div>
+
+<br>
+
+### 🏆 Achievements
+
+Beyond RDR, I build fast under constraint — each of these was a separate game concept, built solo within a 2-day jam theme:
+
+| Jam | Result |
+|---|---|
+| Indus AI Game Jam 2026 | 🥉 3rd Place |
+| PGDC 2025 | 🥇 1st Place |
 
 <br>
 
@@ -53,8 +62,8 @@ A 2.5D competitive dodgeball fighter built as an award winning production.
 
 <br>
 
-**Networking & Backend:** Photon Unity Networking 2 (PUN2) · Azure PlayFab CloudScript · JSON REST APIs
-**Graphics & Pipeline:** ShaderLab · Particle Systems · PBR Texturing · UV Mapping · Asset Optimization
+**Networking &amp; Backend:** Photon Unity Networking 2 (PUN2) · Azure PlayFab CloudScript · JSON REST APIs
+**Graphics &amp; Pipeline:** ShaderLab · Particle Systems · PBR Texturing · UV Mapping · Asset Optimization
 
 <br>
 
@@ -71,9 +80,9 @@ A 2.5D competitive dodgeball fighter built as an award winning production.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shayanfolio.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/proto-mos)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://mo-shayan.itch.io/retro-dodge-rumble)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)](https://shayanfolio.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/proto-mos)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&amp;logo=itch.io&amp;logoColor=white)](https://mo-shayan.itch.io/retro-dodge-rumble)
 
 </div>
 
