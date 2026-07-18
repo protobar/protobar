@@ -21,9 +21,24 @@
 
 ### 🧰 Toolkit
 
-![Unity](https://shields.io) ![C#](https://shields.io) ![Blender](https://shields.io) ![Git](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Unity" />
+  <img src="https://shields.io" alt="C#" />
+  <img src="https://shields.io" alt="Blender" />
+  <img src="https://shields.io" alt="Git" />
+</p>
+
 * **Networking & Backend:** Photon Unity Networking 2 (PUN2), Azure PlayFab (CloudScript), JSON REST APIs
 * **Graphics & Pipeline:** ShaderLab, Particle Systems, Asset Optimization, UV Mapping, PBR Texturing
+
+---
+
+### 📊 Engineering Analytics
+
+<p align="left">
+  <img src="https://vercel.app" alt="Shayan's GitHub Stats" height="170px" />
+  <img src="https://vercel.app" alt="Top Languages" height="170px" />
+</p>
 
 ---
 
@@ -32,3 +47,7 @@
 - 🌐 **Portfolio Website:** [shayanfolio.online](https://shayanfolio.tech)
 - 💼 **Professional Network:** [LinkedIn Profile](https://linkedin.com/in/proto-mos)
 - 🎮 **Playable Builds:** [Itch.io Space](https://mo-shayan.itch.io/retro-dodge-rumble)
+
+<p align="center">
+  <img src="https://vercel.app" />
+</p>
