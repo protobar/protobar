@@ -62,8 +62,8 @@ Beyond RDR, I build fast under constraint — each of these was a separate game 
 
 <br>
 
-**Networking & Backend:** Photon Unity Networking 2 (PUN2) · Azure PlayFab CloudScript · JSON REST APIs
-**Graphics & Pipeline:** ShaderLab · Particle Systems · PBR Texturing · UV Mapping · Asset Optimization
+**Networking &amp; Backend:** Photon Unity Networking 2 (PUN2) · Azure PlayFab CloudScript · JSON REST APIs
+**Graphics &amp; Pipeline:** ShaderLab · Particle Systems · PBR Texturing · UV Mapping · Asset Optimization
 
 <br>
 
