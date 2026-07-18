@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00D4FF&height=200&section=header&text=Shayan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Technical%20Artist%20%26%20Game%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6A00FF,100:00D4FF&amp;height=200&amp;section=header&amp;text=Shayan&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Technical%20Artist%20%26%20Game%20Developer&amp;descAlignY=55&amp;descSize=20" width="100%"/>
 
 <a href="https://shayanfolio.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Bridging+Art+%26+Code;Blender+%E2%86%92+Unity+%E2%86%92+Shipped+Game;Building+RetroAvalon+Studios;Currently+chasing+Steam+Early+Access" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Bridging+Art+%26+Code;Blender+%E2%86%92+Unity+%E2%86%92+Shipped+Game;Building+RetroAvalon+Studios;Currently+chasing+Steam+Early+Access" alt="Typing SVG" />
 </a>
 
 </div>
@@ -24,7 +24,7 @@ I bridge the gap between art and code. I own the full pipeline, from high fideli
 ### 🚀 Featured Project
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=Retro%20Dodge%20Rumble&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=gradient&amp;customColorList=6,11,20&amp;height=90&amp;section=header&amp;text=Retro%20Dodge%20Rumble&amp;fontSize=32&amp;fontColor=ffffff&amp;animation=twinkling" width="100%"/>
 </div>
 
 A 2.5D competitive dodgeball fighter built as an award winning production.
@@ -33,7 +33,7 @@ A 2.5D competitive dodgeball fighter built as an award winning production.
 |---|---|
 | 🕹️ **Scope** | 5 characters · 5 arenas · 6 modes · 14 skin economy shop |
 | 🌐 **Backend** | Server authoritative multiplayer using **PUN2** with a **PlayFab** ecosystem (CloudScript, catalogs, currency, stats) |
-| 🏆 **Accolades** | 🏆 Top 3 Finalist, FCAI Expo 2026 |
+| 🏆 **Accolades** | 🏆 3rd Place Winner, Indus AI Game Jam · 1st Place Winner, PGDC 2025 |
 | 🎯 **Status** | Optimizing for **Steam Early Access** · pitching incubators |
 
 <div align="center">
@@ -48,7 +48,7 @@ A 2.5D competitive dodgeball fighter built as an award winning production.
 ### 🧰 Toolkit
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=unity,cs,blender,cpp,git,github,vscode,photonengine&theme=dark" />
+<img src="https://skillicons.dev/icons?i=unity,cs,blender,cpp,git,github,vscode,photonengine&amp;theme=dark" />
 </div>
 
 <br>
@@ -61,8 +61,8 @@ A 2.5D competitive dodgeball fighter built as an award winning production.
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-woad-zeta-jufvh7skx6.vercel.app/api?username=protobar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="165" src="https://github-readme-stats-woad-zeta-jufvh7skx6.vercel.app/api/top-langs/?username=protobar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats-woad-zeta-jufvh7skx6.vercel.app/api?username=protobar&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats-woad-zeta-jufvh7skx6.vercel.app/api/top-langs/?username=protobar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117"/>
 </div>
 
 <br>
@@ -77,4 +77,4 @@ A 2.5D competitive dodgeball fighter built as an award winning production.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6A00FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D4FF,100:6A00FF&amp;height=100&amp;section=footer" width="100%"/>
