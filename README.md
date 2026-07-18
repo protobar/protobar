@@ -1,53 +1,83 @@
-# Hey, I'm Shayan 👋
+<div align="center">
 
-**Technical Artist & Game Developer** — I bridge the gap between art and code. I handle the entire pipeline: from high-fidelity modeling and optimization in Blender to gameplay systems, UI, backend architecture, and networking in Unity.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00D4FF&height=200&section=header&text=Shayan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Technical%20Artist%20%26%20Game%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-- 🎮 **Founder:** RetroAvalon Studios
-- 🛠️ **Unity Pipeline:** Gameplay architecture, UI systems, animation state machines, and networking built from scratch.
-- 🎨 **Blender Pipeline:** Hard-surface/organic modeling, texturing, lookdev, lighting, and performance-minded optimization.
-- 🔁 **Workflow:** Highly efficient round-tripping between asset creation and engine implementation.
+<a href="https://shayanfolio.tech">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Bridging+Art+%26+Code;Blender+%E2%86%92+Unity+%E2%86%92+Shipped+Game;Building+RetroAvalon+Studios;Currently+chasing+Steam+Early+Access" alt="Typing SVG" />
+</a>
+
+</div>
 
 ---
+
+### 👋 About Me
+
+I bridge the gap between art and code — I own the full pipeline, from high-fidelity modeling and lookdev in **Blender** to gameplay architecture, UI, backend, and networking in **Unity**.
+
+- 🎮 **Founder** — RetroAvalon Studios
+- 🛠️ **Unity Pipeline** — gameplay architecture, UI systems, animation state machines, networking, built from scratch
+- 🎨 **Blender Pipeline** — modeling, texturing, lookdev, lighting, performance-minded optimization
+- 🔁 **Workflow** — fast round-tripping between asset creation and engine implementation
+
+<br>
 
 ### 🚀 Featured Project
 
-**[Retro Dodge Rumble](https://mo-shayan.itch.io/retro-dodge-rumble)** — A 2.5D competitive dodgeball-fighter built as an award-winning production.
-- **Scope:** 5 unique characters, 5 dynamic arenas, 6 game modes, and a 14-skin economy shop system.
-- **Backend Architecture:** Server-authoritative multiplayer utilizing **PUN2** integrated with a **PlayFab** ecosystem (CloudScript automation, secure catalogs, virtual currency, and player statistics).
-- **Accolades:** 🏆 Top 3 Finalist at FCAI Expo 2026.
-- **Status:** Currently optimizing asset pipelines for **Steam Early Access** and targeting incubator pitches.
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=Retro%20Dodge%20Rumble&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%"/>
+</div>
 
----
+A 2.5D competitive dodgeball-fighter built as an award-winning production.
+
+| | |
+|---|---|
+| 🕹️ **Scope** | 5 characters · 5 arenas · 6 modes · 14-skin economy shop |
+| 🌐 **Backend** | Server-authoritative multiplayer — **PUN2** + **PlayFab** (CloudScript, catalogs, currency, stats) |
+| 🏆 **Accolades** | Top 3 Finalist — FCAI Expo 2026 |
+| 🎯 **Status** | Optimizing for **Steam Early Access** · pitching incubators |
+
+<div align="center">
+
+[![Play on Itch.io](https://img.shields.io/badge/Play_Now-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://mo-shayan.itch.io/retro-dodge-rumble)
+
+</div>
+
+<br>
 
 ### 🧰 Toolkit
 
-<p align="left">
-  <img src="https://shields.io" alt="Unity" />
-  <img src="https://shields.io" alt="C#" />
-  <img src="https://shields.io" alt="Blender" />
-  <img src="https://shields.io" alt="Git" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=unity,cs,blender,cpp,git,github,vscode,photonengine&theme=dark" />
+</div>
 
-* **Networking & Backend:** Photon Unity Networking 2 (PUN2), Azure PlayFab (CloudScript), JSON REST APIs
-* **Graphics & Pipeline:** ShaderLab, Particle Systems, Asset Optimization, UV Mapping, PBR Texturing
+<br>
 
----
+**Networking & Backend:** Photon Unity Networking 2 (PUN2) · Azure PlayFab CloudScript · JSON REST APIs
+**Graphics & Pipeline:** ShaderLab · Particle Systems · PBR Texturing · UV Mapping · Asset Optimization
 
-### 📊 Engineering Analytics
+<br>
 
-<p align="left">
-  <img src="https://vercel.app" alt="Shayan's GitHub Stats" height="170px" />
-  <img src="https://vercel.app" alt="Top Languages" height="170px" />
-</p>
+### 📊 GitHub Stats
 
----
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=protobar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protobar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
 
-### 🔗 Connect With Me
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=protobar&theme=tokyonight&hide_border=true&background=0D1117"/>
+</div>
 
-- 🌐 **Portfolio Website:** [shayanfolio.online](https://shayanfolio.tech)
-- 💼 **Professional Network:** [LinkedIn Profile](https://linkedin.com/in/proto-mos)
-- 🎮 **Playable Builds:** [Itch.io Space](https://mo-shayan.itch.io/retro-dodge-rumble)
+<br>
 
-<p align="center">
-  <img src="https://vercel.app" />
-</p>
+### 🔗 Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shayanfolio.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/proto-mos)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://mo-shayan.itch.io/retro-dodge-rumble)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6A00FF&height=100&section=footer" width="100%"/>
