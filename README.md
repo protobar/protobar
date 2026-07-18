@@ -14,7 +14,7 @@
 
 I bridge the gap between art and code. I own the full pipeline, from high fidelity modeling and lookdev in **Blender** to gameplay architecture, UI, backend, and networking in **Unity**.
 
-- 🎮 **Founder:** RetroAvalon Studios
+- 🎮 **Founder:** RetroAvalon Studio
 - 🛠️ **Unity Pipeline:** gameplay architecture, UI systems, animation state machines, networking, built from scratch
 - 🎨 **Blender Pipeline:** modeling, texturing, lookdev, lighting, performance minded optimization
 - 🔁 **Workflow:** fast round tripping between asset creation and engine implementation
