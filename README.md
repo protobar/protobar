@@ -11,7 +11,7 @@
 
 ### 🚀 Featured Project
 
-**[Retro Dodge Rumble](https://retrododgerumble.itch.io)** — A 2.5D competitive dodgeball-fighter built as an award-winning production.
+**[Retro Dodge Rumble](https://mo-shayan.itch.io/retro-dodge-rumble)** — A 2.5D competitive dodgeball-fighter built as an award-winning production.
 - **Scope:** 5 unique characters, 5 dynamic arenas, 6 game modes, and a 14-skin economy shop system.
 - **Backend Architecture:** Server-authoritative multiplayer utilizing **PUN2** integrated with a **PlayFab** ecosystem (CloudScript automation, secure catalogs, virtual currency, and player statistics).
 - **Accolades:** 🏆 Top 3 Finalist at FCAI Expo 2026.
@@ -31,4 +31,4 @@
 
 - 🌐 **Portfolio Website:** [shayanfolio.online](https://shayanfolio.tech)
 - 💼 **Professional Network:** [LinkedIn Profile](https://linkedin.com/in/proto-mos)
-- 🎮 **Playable Builds:** [Itch.io Space](https://retrododgerumble.itch.io)
+- 🎮 **Playable Builds:** [Itch.io Space](https://mo-shayan.itch.io/retro-dodge-rumble)
